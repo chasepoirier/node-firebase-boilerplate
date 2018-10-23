@@ -1,0 +1,7 @@
+{
+  "extends": ["airbnb-base", "eslint-config-prettier"],
+  "rules": {
+    "no-console": "off",
+    "semi": "off"
+  }
+}
